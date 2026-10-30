@@ -1,0 +1,198 @@
+{
+  "version": 1,
+  "updatedAt": "2026-10-30",
+  "subjects": [
+    {
+      "id": "english",
+      "title": "الإنجليزية للمبتدئين",
+      "description": "كلمات وعبارات أساسية للحياة اليومية",
+      "lessons": [
+        {
+          "title": "التحيات والتعريف بالنفس",
+          "content": "Hello = مرحبًا\nGood morning = صباح الخير\nGood evening = مساء الخير\nHow are you? = كيف حالك؟\nI am fine, thank you = أنا بخير، شكرًا\nWhat is your name? = ما اسمك؟\nMy name is ... = اسمي ...\nNice to meet you = سعيد بلقائك\nGoodbye = إلى اللقاء\nSee you later = أراك لاحقًا\n\nنصيحة: استخدم How are you? مع الأصدقاء، وGood morning في الصباح."
+        },
+        {
+          "title": "الأرقام من 1 إلى 20",
+          "content": "1 one = واحد\n2 two = اثنان\n3 three = ثلاثة\n4 four = أربعة\n5 five = خمسة\n6 six = ستة\n7 seven = سبعة\n8 eight = ثمانية\n9 nine = تسعة\n10 ten = عشرة\n11 eleven = أحد عشر\n12 twelve = اثنا عشر\n13 thirteen = ثلاثة عشر\n14 fourteen = أربعة عشر\n15 fifteen = خمسة عشر\n16 sixteen = ستة عشر\n17 seventeen = سبعة عشر\n18 eighteen = ثمانية عشر\n19 nineteen = تسعة عشر\n20 twenty = عشرون\n\nقاعدة: الأرقام من 13 إلى 19 تنتهي بـ teen."
+        },
+        {
+          "title": "الألوان",
+          "content": "Red = أحمر\nBlue = أزرق\nGreen = أخضر\nYellow = أصفر\nBlack = أسود\nWhite = أبيض\nOrange = برتقالي\nPurple = بنفسجي\nBrown = بني\nPink = وردي\n\nجملة مفيدة:\nThe sky is blue = السماء زرقاء\nThe apple is red = التفاحة حمراء"
+        },
+        {
+          "title": "عبارات في المطار",
+          "content": "Where is the gate? = أين البوابة؟\nMy flight is delayed = رحلتي متأخرة\nHere is my passport = هذا جواز سفري\nI have one bag = لدي حقيبة واحدة\nWhat time is boarding? = ما وقت الصعود إلى الطائرة؟\nIs this seat taken? = هل هذا المقعد محجوز؟\nThank you for your help = شكرًا لمساعدتك\n\nتذكّر: احتفظ بجواز السفر وبطاقة الصعود في مكان قريب منك."
+        },
+        {
+          "title": "أيام الأسبوع",
+          "content": "Monday = الاثنين\nTuesday = الثلاثاء\nWednesday = الأربعاء\nThursday = الخميس\nFriday = الجمعة\nSaturday = السبت\nSunday = الأحد\n\nToday = اليوم\nTomorrow = غدًا\nYesterday = أمس\nWeek = أسبوع\nWeekend = عطلة نهاية الأسبوع"
+        }
+      ],
+      "words": [
+        { "word": "Apple", "translation": "تفاحة", "note": "فاكهة" },
+        { "word": "Air", "translation": "هواء" },
+        { "word": "Address", "translation": "عنوان" },
+        { "word": "Book", "translation": "كتاب" },
+        { "word": "Bread", "translation": "خبز" },
+        { "word": "Bird", "translation": "طائر" },
+        { "word": "Cat", "translation": "قطة" },
+        { "word": "Coffee", "translation": "قهوة" },
+        { "word": "Chair", "translation": "كرسي" },
+        { "word": "Door", "translation": "باب" },
+        { "word": "Doctor", "translation": "طبيب" },
+        { "word": "Day", "translation": "يوم" },
+        { "word": "Egg", "translation": "بيضة" },
+        { "word": "Eye", "translation": "عين" },
+        { "word": "English", "translation": "الإنجليزية" },
+        { "word": "Family", "translation": "عائلة" },
+        { "word": "Fish", "translation": "سمكة" },
+        { "word": "Friend", "translation": "صديق" },
+        { "word": "Garden", "translation": "حديقة" },
+        { "word": "Glass", "translation": "كوب" },
+        { "word": "Good", "translation": "جيد" },
+        { "word": "House", "translation": "منزل" },
+        { "word": "Heart", "translation": "قلب" },
+        { "word": "Hand", "translation": "يد" },
+        { "word": "Ice", "translation": "جليد" },
+        { "word": "Idea", "translation": "فكرة" },
+        { "word": "Juice", "translation": "عصير" },
+        { "word": "Job", "translation": "عمل" },
+        { "word": "Key", "translation": "مفتاح" },
+        { "word": "Kitchen", "translation": "مطبخ" },
+        { "word": "Light", "translation": "ضوء" },
+        { "word": "Love", "translation": "حب" },
+        { "word": "Letter", "translation": "رسالة" },
+        { "word": "Milk", "translation": "حليب" },
+        { "word": "Moon", "translation": "قمر" },
+        { "word": "Mother", "translation": "أم" },
+        { "word": "Night", "translation": "ليل" },
+        { "word": "Name", "translation": "اسم" },
+        { "word": "Orange", "translation": "برتقال" },
+        { "word": "Open", "translation": "مفتوح" },
+        { "word": "Pen", "translation": "قلم" },
+        { "word": "Phone", "translation": "هاتف" },
+        { "word": "Peace", "translation": "سلام" },
+        { "word": "Question", "translation": "سؤال" },
+        { "word": "Quiet", "translation": "هادئ" },
+        { "word": "Road", "translation": "طريق" },
+        { "word": "Rain", "translation": "مطر" },
+        { "word": "Red", "translation": "أحمر" },
+        { "word": "Sun", "translation": "شمس" },
+        { "word": "School", "translation": "مدرسة" },
+        { "word": "Star", "translation": "نجمة" },
+        { "word": "Time", "translation": "وقت" },
+        { "word": "Tree", "translation": "شجرة" },
+        { "word": "Tea", "translation": "شاي" },
+        { "word": "Umbrella", "translation": "مظلة" },
+        { "word": "Up", "translation": "أعلى" },
+        { "word": "Voice", "translation": "صوت" },
+        { "word": "Vegetable", "translation": "خضار" },
+        { "word": "Water", "translation": "ماء" },
+        { "word": "Window", "translation": "نافذة" },
+        { "word": "Word", "translation": "كلمة" },
+        { "word": "X-ray", "translation": "أشعة سينية" },
+        { "word": "Yellow", "translation": "أصفر" },
+        { "word": "Year", "translation": "سنة" },
+        { "word": "Zoo", "translation": "حديقة حيوانات" },
+        { "word": "Zero", "translation": "صفر" }
+      ]
+    },
+    {
+      "id": "german",
+      "title": "الألمانية للمبتدئين",
+      "description": "أساسيات الألمانية للنطق والاستخدام اليومي",
+      "lessons": [
+        {
+          "title": "التحيات",
+          "content": "Hallo = مرحبًا\nGuten Morgen = صباح الخير\nGuten Tag = نهارًا سعيدًا\nGuten Abend = مساء الخير\nGute Nacht = تصبح على خير\nWie geht es dir? = كيف حالك؟\nDanke = شكرًا\nBitte = من فضلك / عفوًا\nTschüss = إلى اللقاء\nBis später = أراك لاحقًا"
+        },
+        {
+          "title": "الأرقام",
+          "content": "eins = واحد\nzwei = اثنان\ndrei = ثلاثة\nvier = أربعة\nfünf = خمسة\nsechs = ستة\nsieben = سبعة\nacht = ثمانية\nneun = تسعة\nzehn = عشرة\nelf = أحد عشر\nzwölf = اثنا عشر"
+        },
+        {
+          "title": "في المقهى",
+          "content": "Kaffee = قهوة\nTee = شاي\nWasser = ماء\nMilch = حليب\nZucker = سكر\nDie Rechnung bitte = الحساب من فضلك\nIch möchte ... = أريد ...\nWie viel kostet das? = كم سعر هذا؟\nSehr lecker = لذيذ جدًا"
+        }
+      ],
+      "words": [
+        { "word": "Apfel", "translation": "تفاحة" },
+        { "word": "Buch", "translation": "كتاب" },
+        { "word": "Brot", "translation": "خبز" },
+        { "word": "Katze", "translation": "قطة" },
+        { "word": "Kaffee", "translation": "قهوة" },
+        { "word": "Danke", "translation": "شكرًا" },
+        { "word": "Ei", "translation": "بيضة" },
+        { "word": "Familie", "translation": "عائلة" },
+        { "word": "Fisch", "translation": "سمكة" },
+        { "word": "Garten", "translation": "حديقة" },
+        { "word": "Haus", "translation": "منزل" },
+        { "word": "Herz", "translation": "قلب" },
+        { "word": "Idee", "translation": "فكرة" },
+        { "word": "Jahr", "translation": "سنة" },
+        { "word": "Lampe", "translation": "مصباح" },
+        { "word": "Milch", "translation": "حليب" },
+        { "word": "Mond", "translation": "قمر" },
+        { "word": "Nacht", "translation": "ليل" },
+        { "word": "Name", "translation": "اسم" },
+        { "word": "Orange", "translation": "برتقال" },
+        { "word": "Stift", "translation": "قلم" },
+        { "word": "Tisch", "translation": "طاولة" },
+        { "word": "Wasser", "translation": "ماء" },
+        { "word": "Zeit", "translation": "وقت" }
+      ]
+    },
+    {
+      "id": "arabic-terms",
+      "title": "مصطلحات عربية",
+      "description": "كلمات عربية شائعة مع الترجمة الإنجليزية",
+      "lessons": [
+        {
+          "title": "كلمات يومية",
+          "content": "كتاب = Book\nقلم = Pen\nماء = Water\nبيت = House\nطريق = Road\nشمس = Sun\nقمر = Moon\nصديق = Friend\nعائلة = Family\nوقت = Time"
+        },
+        {
+          "title": "عبارات المجاملة",
+          "content": "شكرًا = Thank you\nمن فضلك = Please\nعفوًا = You're welcome\nصباح الخير = Good morning\nمساء الخير = Good evening\nكيف حالك؟ = How are you?\nأنا بخير = I am fine\nإلى اللقاء = Goodbye"
+        },
+        {
+          "title": "في السوق",
+          "content": "كم السعر؟ = How much is it?\nغالي = Expensive\nرخيص = Cheap\nأريد هذا = I want this\nهل لديك آخر؟ = Do you have another one?\nالدفع نقدًا = Pay in cash\nالبطاقة = Card"
+        }
+      ],
+      "words": [
+        { "word": "أمل", "translation": "Hope" },
+        { "word": "باب", "translation": "Door" },
+        { "word": "بيت", "translation": "House" },
+        { "word": "تفاحة", "translation": "Apple" },
+        { "word": "ثلج", "translation": "Snow" },
+        { "word": "جبل", "translation": "Mountain" },
+        { "word": "حب", "translation": "Love" },
+        { "word": "خبز", "translation": "Bread" },
+        { "word": "درس", "translation": "Lesson" },
+        { "word": "ذهب", "translation": "Gold" },
+        { "word": "رحلة", "translation": "Journey" },
+        { "word": "زهرة", "translation": "Flower" },
+        { "word": "ساعة", "translation": "Watch" },
+        { "word": "شمس", "translation": "Sun" },
+        { "word": "صديق", "translation": "Friend" },
+        { "word": "ضوء", "translation": "Light" },
+        { "word": "طائر", "translation": "Bird" },
+        { "word": "ظل", "translation": "Shadow" },
+        { "word": "عين", "translation": "Eye" },
+        { "word": "غيمة", "translation": "Cloud" },
+        { "word": "فكرة", "translation": "Idea" },
+        { "word": "قمر", "translation": "Moon" },
+        { "word": "كتاب", "translation": "Book" },
+        { "word": "كلمة", "translation": "Word" },
+        { "word": "ليل", "translation": "Night" },
+        { "word": "ماء", "translation": "Water" },
+        { "word": "نافذة", "translation": "Window" },
+        { "word": "هاتف", "translation": "Phone" },
+        { "word": "وردة", "translation": "Rose" },
+        { "word": "يد", "translation": "Hand" },
+        { "word": "يوم", "translation": "Day" }
+      ]
+    }
+  ]
+}
